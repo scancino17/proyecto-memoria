@@ -6,7 +6,7 @@ Repositorio que contiene ambiente, código fuente, Jupyter Notebooks y resultado
 
 Este repositorio se encuentra en elaboración: el código fuente está siendo revisado, ordenado y comentado.
 
-En este commit, no se recomieda la ejecución del código. La ejecución de este puede generar gigabytes de datos.
+En este commit no se recomieda la ejecución del código. La ejecución de este puede generar gigabytes de datos.
 
 ## Contenido de los archivos
 
