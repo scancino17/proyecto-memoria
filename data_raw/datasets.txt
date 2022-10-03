@@ -1,0 +1,6 @@
+Los datasets raw se encuentran aparte al repostiorio, debido al tamaño (230 Mb aprox.). Estos pueden ser obtenidos desde el siguiente link:
+
+https://alumnosutalca-my.sharepoint.com/:f:/g/personal/scancino17_alumnos_utalca_cl/EgU2crJNXWJBuayYo9sMzfEBmFAmn0C-TyrjRk6GWyqv1Q?e=jn0gxI
+
+Para ejecución de notebooks, por favor extraer el zip con los datos raw en este directorio, de forma que los pickles de input y outputs queden
+en sus directorios correspondientes. Los datasets en formato csv pueden ser ignorados aquí.

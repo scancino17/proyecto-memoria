@@ -2,4 +2,4 @@ Los datasets se encuentran aparte al repostiorio, debido al tamaño (150 Mb apro
 
 https://alumnosutalca-my.sharepoint.com/:f:/g/personal/scancino17_alumnos_utalca_cl/EgU2crJNXWJBuayYo9sMzfEBmFAmn0C-TyrjRk6GWyqv1Q?e=jn0gxI
 
-Para ejecución de notebooks, por favor dejar los datasets en este directorio.
+Para ejecución de notebooks, por favor dejar los datasets en formato csv en este directorio. El fichero zip puede ser ignorado aquí.

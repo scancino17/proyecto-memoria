@@ -4,17 +4,21 @@ Repositorio que contiene ambiente, código fuente, Jupyter Notebooks y resultado
 
 ## Importante
 
-Este repositorio se encuentra en elaboración: el código fuente está siendo revisado, ordenado y comentado.
+Para ejecutar los notebooks en este repositorio, se recomienda dejar el repositorio en el directorio de trabajo del servidor Jupyter, o clonar el repositorio en ese directorio.
 
-En este commit no se recomieda la ejecución del código. La ejecución de este puede generar gigabytes de datos.
+De lo contrario, se debe cambiar la variable de control NOTEBOOK_FOLDER_PATH en todos los notebooks por el path relativo a este repositorio desde el directorio de trabajo del servidor Jupyter.
 
 ## Contenido de los archivos
 
-Los notebooks contienen código experimental, ejecutado a modo de pruba mientras se desarrollaba el proyecto.
+Los notebooks contienen código interactivo, escrito a modo de experimentación mientras se desarrollaba el proyecto.
 
-Los scripts contienen código definitivo: sus resultados dueron usados en los resultados de la memoria.
+El código final de estos refleja el código usado para dar respuesta a las actividades del proyecto.
 
-La excepción es Notebook-Graphs, notebook que se encarga de generar los gráficos agregados en el anexo.
+Los notebooks yakutia, malaga y alemana constan de las actividades llevadass a cabo durante el proyecto, aplicados sobre su correspondiente dataset.
+
+Los notebookks preprocess y graphs son notebookks auxiiares: el primero es usado para transformar los datos y ser usados en un ambiente sklearn. El segundo es usado para hacer múltiples visualizaciones de los resultados obtenidos.
+
+Los scripts contienen código automático: sus resultados fueron usados en los resultados de la memoria.
 
 ## Ambiente de ejecución
 

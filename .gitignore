@@ -1,0 +1,11 @@
+# Ignorar datasets, son muy grandes para el repo
+data_process/*.csv
+
+# Ignorar respaldos de configuración
+json/*copy.json
+
+# Ignorar pickles en data_raw, muy grandes para el repo
+data_raw/*/*.pickle
+
+# Ignorar gráficos generados
+figures/*

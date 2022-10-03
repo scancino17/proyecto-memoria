@@ -1,0 +1,32 @@
+{
+  "SGD": {
+    "learning_rate": "adaptive",
+    "loss": "huber",
+    "penalty": "l1"
+  },
+  "Linear": {
+    "fit_intercept": false
+  },
+  "SVR": {
+    "C": 1,
+    "epsilon": 0.1,
+    "kernel": "rbf"
+  },
+  "RandomForest": {
+    "criterion": "squared_error",
+    "max_depth": 200,
+    "n_estimators": 400
+  },
+  "GradientBoosting": {
+    "criterion": "squared_error",
+    "learning_rate": 0.1,
+    "loss": "huber",
+    "n_estimators": 200
+  },
+  "MLP": {
+    "activation": "logistic",
+    "hidden_layer_sizes": [40, 10],
+    "learning_rate": "constant",
+    "solver": "adam"
+  }
+}
